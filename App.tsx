@@ -117,7 +117,7 @@ function App() {
       </main>
        <footer className="w-full max-w-4xl mx-auto text-center mt-8">
         <p className="text-slate-500 text-sm">
-          Powered by React, Tailwind CSS, and a Local Regression Algorithm
+          Powered by React, Tailwind CSS, and love towards Kasane Teto
         </p>
       </footer>
     </div>
