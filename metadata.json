@@ -1,0 +1,6 @@
+{
+  "name": "Big Data Reasoning AI",
+  "description": "An AI application that ingests (x, y) data points, discovers the underlying mathematical function, visualizes it as a graph, and allows for new predictions based on the discovered model.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
